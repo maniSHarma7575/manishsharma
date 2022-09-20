@@ -2,7 +2,7 @@
   "name": "manishsharma",
   "version": "1.0.0",
   "private": true,
-  "description": "manishsharma",
+  "description": "Manish sharma portfolio website",
   "author": "Manish Sharma",
   "keywords": [
     "gatsby"
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "gatsby": "^4.23.0",
+    "proptypes": "^1.1.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
