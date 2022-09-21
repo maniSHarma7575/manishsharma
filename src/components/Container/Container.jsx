@@ -1,10 +1,15 @@
 import React from "react";
 import styles from './Container.module.css'
+import Proptypes from 'prop-types'
 
-const Container = () =>{
+const Container = ({children}) =>{
   return(
-    <h1>Container</h1>
+    <main>{children}</main>
   )
+}
+
+Container.propTypes = {
+  children: Proptypes.node
 }
 
 export default Container;
