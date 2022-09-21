@@ -4,13 +4,14 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Container from '../components/Container'
 import './index.css'
+import Landing from '../components/Landing';
 
 const Layout = ({containerChildren}) => {
   return(
     <>
       <Header title={`Manis`}/>
       <Container>
-        <div>{containerChildren}</div>
+        {containerChildren}
       </Container>
       <Footer/>
     </>

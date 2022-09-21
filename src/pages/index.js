@@ -1,11 +1,10 @@
 import * as React from "react"
 import Layout from "../layout"
+import Landing from "../components/Landing"
 
 const IndexPage = () => {
   return (
-    <Layout>
-      <h1>Landing Page Component Goes here!</h1>
-    </Layout>
+    <Layout containerChildren={<Landing/>} />
   )
 }
 
