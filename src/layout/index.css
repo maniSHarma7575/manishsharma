@@ -2288,3 +2288,7 @@ section p {
 .padding-top-0 {
   padding-top: 0 !important;
 }
+
+.margin-top-5 {
+  padding-bottom: 5px !important;
+}
