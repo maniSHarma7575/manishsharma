@@ -12,7 +12,7 @@ const About = () => {
               <p>
                 I write code in Ruby On Rails and React. This is a place where I share my learnings.
               </p>
-              <p>I also <a href="articles">write blogs</a> and I have my works published on <a
+              <p>I also <a href="blogs">write blogs</a> and I have my works published on <a
                   href="https://exploremanish.blogspot.com/" target="_blank">Blogspot
                 </a> and <a href="https://manishsharma.ml/blogs" target="_blank">Blogs</a>
               </p>
@@ -48,7 +48,7 @@ const About = () => {
               </p>
               <p>
                 I’m constantly trying to learn new technologies and concepts and I try to share my knowledge by <a
-                  href="articles">writing
+                  href="blogs">writing
                   articles</a>.
               </p>
               <p>

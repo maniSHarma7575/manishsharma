@@ -33,7 +33,7 @@ const Header = ({title}) =>{
         <div className={`nav-links ${navLinkClass}`}>
           <a href="about" className="link">about</a>
           <a href="projects" className="link">projects</a>
-          <a href="articles" className="link">blogs</a>
+          <a href="blogs" className="link">blogs</a>
           <a href="/#contact" className="link">contact</a>
           <div className="social-media">
             <a href="https://www.github.com/maniSHarma7575" title="Github" target="_blank">
