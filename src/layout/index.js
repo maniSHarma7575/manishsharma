@@ -3,8 +3,7 @@ import PropTypes from 'prop-types';
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Container from '../components/Container'
-import './index.css'
-import Landing from '../components/Landing';
+import '../assets/css/index.css'
 
 const Layout = ({containerChildren}) => {
   return(
