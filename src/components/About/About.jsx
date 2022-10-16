@@ -20,15 +20,15 @@ const About = () => {
           </div>
         </div>
       </section>
-      <section id="history" class="container inner-container">
+      <section id="history" className="container inner-container">
         <div className="container inner-container padding-top-0">
           <details open>
             <summary>
-              <h2 class="subsection-title">
+              <h2 className="subsection-title">
                 History
               </h2>
             </summary>
-            <div class="main-text">
+            <div className="main-text">
               <p>
                 I first started coding sometime in 2017 after taking a C course in my 1st year of university. The very
                 first thing I built was a calculator
