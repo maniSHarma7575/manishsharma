@@ -55,6 +55,7 @@ aside {
 
 .article-title {
   color: var(--shade-500);
+  text-decoration: none;
   margin: 0.5rem 0;
 }
 
@@ -75,9 +76,11 @@ aside {
 }
 
 input[value="all"]:checked ~ .post-tags label[data-post="all"],
-input[value="javascript"]:checked ~ .post-tags label[data-post="javascript"],
-input[value="portfolio"]:checked ~ .post-tags label[data-post="portfolio"],
-input[value="conferences"]:checked ~ .post-tags label[data-post="conferences"] {
+input[value="rubyonrails"]:checked ~ .post-tags label[data-post="rubyonrails"],
+input[value="softwaredevelopment"]:checked ~ .post-tags label[data-post="softwaredevelopment"],
+input[value="react"]:checked ~ .post-tags label[data-post="react"],
+input[value="internship"]:checked ~ .post-tags label[data-post="internship"],
+input[value="bookreview"]:checked ~ .post-tags label[data-post="bookreview"] {
   background-color: var(--shade-100);
   border-color: var(--shade-100);
   opacity: 1;
@@ -87,15 +90,21 @@ input[value="all"]:checked ~ .main-content .article {
   display: block;
 }
 
-input[value="javascript"]:checked
+input[value="rubyonrails"]:checked
   ~ .main-content
-  .article[data-post="javascript"],
-input[value="portfolio"]:checked
+  .article[data-post="rubyonrails"],
+input[value="softwaredevelopment"]:checked
   ~ .main-content
-  .article[data-post="portfolio"],
-input[value="conferences"]:checked
+  .article[data-post="softwaredevelopment"],
+input[value="react"]:checked
   ~ .main-content
-  .article[data-post="conferences"] {
+  .article[data-post="react"],
+input[value="internship"]:checked
+  ~ .main-content
+  .article[data-post="internship"],
+input[value="bookreview"]:checked
+  ~ .main-content
+  .article[data-post="bookreview"] {
   display: block;
 }
 
