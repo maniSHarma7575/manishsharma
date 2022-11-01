@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "key": "rubyonrails",
+      "link": "https://www.elitmus.com/blog/technology/sidekiq-process-in-production-with-systemd-and-monit/",
+      "title": "Sidekiq process in production with Systemd and Monit",
+      "main_text": "Recently, we have upgraded our Sidekiq version from 5.2 to 6.5.",
+      "sub_text": "Before Sidekiq 6.0 we were managing the Sidekiq process directly using Monit. With the release of Sidekiq 6, the team has removed the daemonization, logfile, and pidfile command line arguments and sidekiqctl binary. Managing services manually is more error-prone, let our operating system do it for us. We have three options to go with systemd, upstart, and foreman. We decided to go ahead with the systemd.",
+      "published_on": "Jun 29, 2022",
+      "reading_time": "10 min read"
+    },
+    {
+      "key": "bookreview",
+      "link": "https://www.elitmus.com/blog/the-other-side/outliers-the-story-of-success-book-review/",
+      "title": "Outliers: The story of Success - Book Review",
+      "main_text": "In outliers author survey the ingredients for the success.",
+      "sub_text": "He wrote about the reason behind the success of great people like Bill Gates, Bill Joy, Joseph Flom, and the musical group Beatles. And how Chris Langan and Oppenheimer ended up with different stories. And how the culture, family, and friends play a role in determining individual success.",
+      "published_on": "May 02, 2022",
+      "reading_time": "5 min read"
+    },
+    {
+      "key": "rubyonrails",
+      "link": "https://www.elitmus.com/blog/technology/migration-from-paperclip-to-activestorage/",
+      "title": "Migration from Paperclip to ActiveStorage",
+      "main_text": "How we migrated hundreds of thousands of attachments from Paperclip to ActiveStorage without downtime.",
+      "sub_text": "At eLitmus, recently we migrated thousands of attachment records from Paperclip to Rails-owned ActiveStorage. Paperclip and Active Storage solve similar problems - uploading files to cloud storage like Amazon S3, Google Cloud Storage, or Microsoft Azure Storage. In our case, we are uploading files to Amazon s3. And then attach those files to Active Records objects.",
+      "published_on": "May 21, 2021",
+      "reading_time": "10 min read"
+    },
+    {
+      "key": "softwaredevelopment",
+      "link": "https://exploremanish.blogspot.com/2020/11/design-process-to-make-it-better.html",
+      "title": "Design Process to make it better",
+      "main_text": "I have been working on the ColoredCow employee portal for over the past three months or so.",
+      "sub_text": "For the last two weeks, I have been working on designing the processes and automation to make onboarding smooth for new developers on the portal. I have learned a whole lot along the way. Let me tell you a little bit about my time with the designing processes.",
+      "published_on": "Nov 13, 2020",
+      "reading_time": "5 min read"
+    },
+    {
+      "key": "react",
+      "link": "https://exploremanish.blogspot.com/2020/06/getting-deeper-understanding-of-react.html",
+      "title": "Getting deeper understanding of React-Redux by building it myself",
+      "main_text": "From the past few days, I have been playing with react and I am loving the framework. React makes it painless for me to create interactive UIs.",
+      "sub_text": "Designing simple views for each state in my application and the impressive thing is that React efficiently update and render just the right component when my data changes.",
+      "published_on": "Jun 05, 2020",
+      "reading_time": "8 min read"
+    },
+    {
+      "key": "bookreview",
+      "link": "https://exploremanish.blogspot.com/2020/04/the-start-of-my-tour-as-reader.html",
+      "title": "The start of My tour as a Reader ...",
+      "main_text": "It all started during our internship in ColoredCow and Prateek Sir suggested us to read the bundle of books, and I had already shared the blog on the books to be read during engineering.",
+      "sub_text": "As I was confused with the first one to go with. As I was in the habit of procrastination and luckily during the categorization of books I read the summary of the book 'Eat that Frog' Book by Brian Tracy",
+      "published_on": "Apr 26, 2020",
+      "reading_time": "7 min read"
+    },
+    {
+      "key": "softwaredevelopment",
+      "link": "https://exploremanish.blogspot.com/2020/04/working-together-is-success.html",
+      "title": "Working together is a success ...",
+      "main_text": "So, this was started last week when Nikhil, Divyanshu and I got an opportunity to develop an initiative to track the spread of Covid19 in Uttarakhand.",
+      "sub_text": "I was really excited to start working on a project which is launched for Uttarakhand Government and it was under the guidance of Dr. Kunwar Singh Vaisla and the most exciting was that we were first time going to collaborate. As well said Coming together is beginning.",
+      "published_on": "Apr 14, 2020",
+      "reading_time": "5 min read"
+    },
+    {
+      "key": "internship",
+      "link": "https://ccinternshipstory.blogspot.com/2020/02/importance-of-meetings.html",
+      "title": "Importance of Meetings",
+      "main_text": "From the past few days, I have been regularly attending the meetings as an Intern with ColoredCow.I have been really learning a lot from these meetings. Today  I want to share with you how Meetings are important for improving ourselves.",
+      "sub_text": "Building a relationship in my experience is working together in a deterministic and trustworthy manner by knowing each other's Importance and focusing on a common goal to achieve or deliver something.",
+      "published_on": "Feb 15, 2020",
+      "reading_time": "5 min read"
+    },
+    {
+      "key": "bookreview",
+      "link": "https://ccinternshipstory.blogspot.com/2020/02/40-books-to-enjoy-your-engineering.html",
+      "title": "40 Books to enjoy your Engineering",
+      "main_text": "The forty books by the end-of-engineering will help you start your career with a boost.",
+      "sub_text": "On reflecting back over the previous day when we all intern were on the mission for categorization of books for the engineering students. I was really enjoying this responsibility. We were first reading the preface of the book and then categorizing them accordingly. When I was reading the preface I was amazed at the values and lessons which were reflected by these books.",
+      "published_on": "Feb 06, 2020",
+      "reading_time": "5 min read"
+    },
+    {
+      "key": "internship",
+      "link": "https://ccinternshipstory.blogspot.com/2020/01/coloredcow-party-experience.html",
+      "title": "ColoredCow Party Experience",
+      "main_text": "So today I want to share with you yesterday's party experience and the values I get from the party.",
+      "sub_text": "On Friday CEO ColoredCow announced the party and he asks us a question 'Why should we have a party we have not done something great yet?' and we all six intern mates were silent. With our silence, the party was scheduled. And I was thinking about what would be the reason Sir is giving us a party because everything has a reason behind it. I was not able to get the answer yet.",
+      "published_on": "Jan 19, 2020",
+      "reading_time": "5 min read"
+    }
+  ]
+}
