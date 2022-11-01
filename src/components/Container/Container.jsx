@@ -1,5 +1,4 @@
 import React from "react";
-import styles from './Container.module.css'
 import Proptypes from 'prop-types'
 
 const Container = ({children}) =>{

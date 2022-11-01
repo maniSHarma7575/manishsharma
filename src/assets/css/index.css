@@ -6,6 +6,7 @@
 @import './theme.css';
 @import './utilities.css';
 @import './animation.css';
+@import './project.css';
 
 header {
   text-align: center;
