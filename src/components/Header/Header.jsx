@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import PropTypes from 'prop-types';
-import styles from './Header.module.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { fab, faGithub, faLinkedin, faDev, faTwitter, faStackOverflow } from '@fortawesome/free-brands-svg-icons';
 import { library} from "@fortawesome/fontawesome-svg-core";
@@ -31,10 +30,9 @@ const Header = ({title}) =>{
           Manish Sharma
         </a>
         <div className={`nav-links ${navLinkClass}`}>
-          <a href="about" className="link">about</a>
-          <a href="projects" className="link">projects</a>
-          <a href="blogs" className="link">blogs</a>
-          <a href="/#contact" className="link">contact</a>
+          <a href="/about" className="link">about</a>
+          <a href="/projects" className="link">projects</a>
+          <a href="/blogs" className="link">blogs</a>
           <div className="social-media">
             <a href="https://www.github.com/maniSHarma7575" title="Github" target="_blank">
               <FontAwesomeIcon icon={['fab', 'github']}/>

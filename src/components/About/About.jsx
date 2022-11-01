@@ -3,20 +3,18 @@ import React from "react";
 const About = () => {
   return(
     <>
-      <section id="about">
-        <div className="container inner-container">
-          <div className="intro scroll-in">
-            <h2 className="section-title">Hello, I'm Manish Sharma <span className="title-icon">&#128578;</span></h2>
-            <div className="section-subtitle">
-              <p> I’m a self-taught Full-Stack Developer from India.</p>
-              <p>
-                I write code in Ruby On Rails and React. This is a place where I share my learnings.
-              </p>
-              <p>I also <a href="blogs">write blogs</a> and I have my works published on <a
-                  href="https://exploremanish.blogspot.com/" target="_blank">Blogspot
-                </a> and <a href="https://manishsharma.ml/blogs" target="_blank">Blogs</a>
-              </p>
-            </div>
+      <section id="about" className="container inner-container">
+        <div className="intro scroll-in">
+          <h2 className="section-title">Hello, I'm Manish Sharma <span className="title-icon">&#128578;</span></h2>
+          <div className="section-subtitle">
+            <p> I’m a self-taught Full-Stack Developer from India.</p>
+            <p>
+              I write code in Ruby On Rails and React. This is a place where I share my learnings.
+            </p>
+            <p>I also <a href="blogs">write blogs</a> and I have my works published on <a
+                href="https://exploremanish.blogspot.com/" target="_blank">Blogspot
+              </a> and <a href="https://manishsharma.ml/blogs" target="_blank">Blogs</a>
+            </p>
           </div>
         </div>
       </section>

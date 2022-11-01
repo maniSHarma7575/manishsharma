@@ -49,17 +49,17 @@ const Blog = () =>{
 
   return(
     <>
-      <section id="blogs" className="container">
+      <section id="blogs" className="container inner-container">
         <h1 className="section-title">Blogs <span className="title-icon"></span>&#128466;</h1>
         <p>
           I write blogs on technology, books review and experiences. And it's publish on various platforms.
         </p>
       </section>
-      <section id="articles" className="container">
+      <section id="articles" className="inner-container">
         {renderInputElements}
-        <aside className="post-tags">
+        <div className="post-tags">
           {renderTags}
-        </aside>
+        </div>
         <div className="main-content">
           {renderArticles}
         </div>
