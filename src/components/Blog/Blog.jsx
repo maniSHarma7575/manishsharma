@@ -50,7 +50,7 @@ const Blog = () =>{
   return(
     <>
       <section id="blogs" className="container inner-container">
-        <h1 className="section-title">Blogs <span className="title-icon"></span>&#128466;</h1>
+        <h1 className="section-title">Blogs <span className="title-icon">&#128466;</span></h1>
         <p>
           I write blogs on technology, books review and experiences. And it's publish on various platforms.
         </p>
