@@ -1,0 +1,102 @@
+{
+  "projects": [
+    {
+      "name": "Open Source",
+      "project_list": [
+        {
+          "company_name": "eLitmus",
+          "name": "Knights Watch",
+          "description": "Video Procotring client side application using kurento media server or 100ms service.",
+          "tags": ["Ruby", "Javascript", "HTML", "Webrtc", "100ms", "RubyOnRails"],
+          "image_url": "https://iili.io/m4LLmB.md.png",
+          "source_code": "https://github.com/elitmus/knights-watch/pulls/maniSHarma7575"
+        },
+        {
+          "company_name": "ColoredCow",
+          "name": "Portal",
+          "description": "A hub-and-spoke platform for organizations to effectively manage their operations and data.",
+          "tags": ["PHP", "Documentation", "Javascript", "HTML"],
+          "image_url": "https://iili.io/behUUQ.png",
+          "source_code": "https://github.com/ColoredCow/portal/commits?author=maniSHarma7575"
+        },
+        {
+          "company_name": "eLitmus  ",
+          "name": "Email Validator",
+          "description": "An application to verify the email in bulk or one by one",
+          "tags": ["Ruby", "RubyOnRails", "Javascript", "HTML"],
+          "image_url": "https://iili.io/m4LLmB.md.png",
+          "source_code": "https://github.com/elitmus/email-validator/commits?author=maniSHarma7575"
+        },
+        {
+          "company_name": "espoo-dev",
+          "name": "espoo-dev",
+          "description": "A learning platform similar to duolingo and customizable by teacher ",
+          "tags": ["Ruby"],
+          "image_url": "https://iili.io/be5nR4.md.png",
+          "source_code": "https://github.com/espoo-dev/espoo-dev/pulls?q=is%3Apr+is%3Aclosed+author%3AmaniSHarma7575"
+        },
+        {
+          "company_name": "Open Food Foundation",
+          "name": "Open Food Network",
+          "description": "Connect suppliers, distributors and consumers to trade local produce. We're recruiting paid contributors, link below.",
+          "tags": ["Ruby", "Javascript"],
+          "image_url": "https://iili.io/beYjNR.png",
+          "source_code": "https://github.com/openfoodfoundation/openfoodnetwork/pulls?q=is%3Apr+is%3Aclosed+author%3AmaniSHarma7575"
+        },
+        {
+          "company_name": "ifmeorg",
+          "name": "ifme",
+          "description": "Free, open source mental health communication web app to share experiences with loved ones.",
+          "tags": ["Ruby", "Coffeescript"],
+          "image_url": "https://iili.io/be7L3g.md.png",
+          "source_code": "https://github.com/ifmeorg/ifme/pulls?q=is%3Apr+is%3Aclosed+author%3AmaniSHarma7575"
+        },
+        {
+          "company_name": "Solidusio",
+          "name": "solidus",
+          "description": "Solidus, the open-source eCommerce framework for industry trailblazers.",
+          "tags": ["Ruby", "RubyGems"],
+          "image_url": "https://iili.io/beEAS1.png",
+          "source_code": "https://github.com/solidusio/solidus/pulls?q=is%3Apr+author%3AmaniSHarma7575+is%3Aclosed"
+        },
+        {
+          "company_name": "Locaweb",
+          "name": "Heartcheck-redis",
+          "description": "A plugin to check redis connection with heartcheck",
+          "tags": ["Ruby", "RubyGems"],
+          "image_url": "https://repository-images.githubusercontent.com/277403039/63eb4880-bf0f-11ea-9e85-cb3d08870b13",
+          "source_code": "https://github.com/locaweb/heartcheck-redis/pulls?q=is%3Apr+author%3AmaniSHarma7575+is%3Aclosed"
+        }
+      ]
+    },
+    {
+      "name": "Web Applications",
+      "project_list": [
+        {
+          "company_name": "Personal",
+          "name": "Socio",
+          "description": "Solution in form of Employee Portal for organisation to manage their all day operations",
+          "tags": ["Javascript"],
+          "image_url": "https://cdn-cashy-static-assets.lucidchart.com/marketing/blog/2017Q1/7-types-organizational-structure/types-organizational-structures.png",
+          "source_code": "https://github.com/maniSHarma7575/socio"
+        },
+        {
+          "company_name": "Manish",
+          "name": "Portfolio",
+          "description": "It's all about my web version.",
+          "tags": ["Javascript", "CSS", "PHP"],
+          "image_url": "https://iili.io/be0mBV.md.png",
+          "source_code": "https://github.com/maniSHarma7575/manishsharma"
+        },
+        {
+          "company_name": "Personal",
+          "name": "Pigeon",
+          "description": "Platform to launch the email campaigns using Amazon SES and Gmail smtp",
+          "tags": ["Javascript", "CSS"],
+          "image_url": "https://iili.io/beVHMv.md.png",
+          "source_code": "https://github.com/maniSHarma7575/Pigeon"
+        }
+      ]
+    }
+  ]
+}

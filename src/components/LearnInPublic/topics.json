@@ -1,0 +1,307 @@
+{
+  "fields": [
+    {
+      "name": "Engineering",
+      "chapters": [
+        {
+          "name": "Javascript",
+          "sub_chapters": [
+            {
+              "name": "How Javascript works & Execution Context",
+              "completed": true
+            },
+            {
+              "name": "Hoisting",
+              "completed": true
+            },
+            {
+              "name": "Functions in JS",
+              "completed": true
+            },
+            {
+              "name": "The Scope Chain",
+              "completed": true
+            },
+            {
+              "name": "Variables",
+              "completed": true
+            },
+            {
+              "name": "Block Scope & Shadowing in JS",
+              "completed": false
+            },
+            {
+              "name": "Closures",
+              "completed": false
+            },
+            {
+              "name": "First Class Functions & Callbacks",
+              "completed": false
+            },
+            {
+              "name": "Asynchronus Javascript",
+              "completed": false
+            },
+            {
+              "name": "High Order Functions",
+              "completed": false
+            },
+            {
+              "name": "Callback Hell",
+              "completed": false
+            },
+            {
+              "name": "Promises",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "name": "RubyOnRails",
+          "sub_chapters": [
+            {
+              "name": "Active Record",
+              "completed": true
+            },
+            {
+              "name": "Action View",
+              "completed": true
+            },
+            {
+              "name": "Action Controller",
+              "completed": true
+            },
+            {
+              "name": "Active Jobs",
+              "completed": true
+            },
+            {
+              "name": "Active Storage",
+              "completed": true
+            },
+            {
+              "name": "Rails Assets Pipeline",
+              "completed": true
+            },
+            {
+              "name": "Rails Engine",
+              "completed": true
+            },
+            {
+              "name": "Sidekiq",
+              "completed": true
+            },
+            {
+              "name": "Zeitwerk",
+              "completed": false
+            },
+            {
+              "name": "Puma with Rails",
+              "completed": false
+            },
+            {
+              "name": "Action Cable Overview",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "name": "React",
+          "sub_chapters": [
+            {
+              "name": "JSX",
+              "completed": true
+            },
+            {
+              "name": "Class vs functional components",
+              "completed": true
+            },
+            {
+              "name": "State vs props",
+              "completed": true
+            },
+            {
+              "name": "Lifecycle Methods",
+              "completed": true
+            },
+            {
+              "name": "Hooks",
+              "completed": true
+            },
+            {
+              "name": "Context",
+              "completed": true
+            },
+            {
+              "name": "Redux",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "name": "Tools / Frameworks",
+          "sub_chapters": [
+            {
+              "name": "Command Line",
+              "completed": true
+            },
+            {
+              "name": "Git",
+              "completed": true
+            },
+            {
+              "name": "Docker",
+              "completed": false
+            },
+            {
+              "name": "AWS",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "name": "Algorithms",
+          "sub_chapters": [
+            {
+              "name": "Complexity (Big O Notation)",
+              "completed": true
+            },
+            {
+              "name": "Time & Size Complexity",
+              "completed": true
+            },
+            {
+              "name": "Searching",
+              "completed": true
+            },
+            {
+              "name": "Sorting",
+              "completed": true
+            },
+            {
+              "name": "Recursion",
+              "completed": true
+            },
+            {
+              "name": "Dynamic Programming",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "name": "Data Structures",
+          "sub_chapters": [
+            {
+              "name": "Arrays",
+              "completed": true
+            },
+            {
+              "name": "Linked List",
+              "completed": true
+            },
+            {
+              "name": "Stack",
+              "completed": true
+            },
+            {
+              "name": "Queue",
+              "completed": true
+            },
+            {
+              "name": "Hash Tables",
+              "completed": true
+            },
+            {
+              "name": "Heap",
+              "completed": true
+            },
+            {
+              "name": "Trees",
+              "completed": false
+            },
+            {
+              "name": "Graph",
+              "completed": false
+            },
+            {
+              "name": "Union Find",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Books",
+      "chapters": [
+        {
+          "name": "Technical",
+          "sub_chapters": [
+            {
+              "name": "Don't make me think",
+              "completed": true
+            },
+            {
+              "name": "Learn Web Development with Rails by Michael Hartl",
+              "completed": true
+            },
+            {
+              "name": "Introductions to Algorithms By Thomas Cormen",
+              "completed": false
+            },
+            {
+              "name": "The Pragmatic Programmer",
+              "completed": false
+            }
+          ]
+        }, 
+        {
+          "name": "Growth & Success",
+          "sub_chapters": [
+            {
+              "name": "Eat that Frog!",
+              "completed": true
+            },
+            {
+              "name": "How to win friends and influence people",
+              "completed": true
+            }, 
+            {
+              "name": "Outliers: The Story of Success",
+              "completed": true
+            },
+            {
+              "name": "Steve Jobs: The Man Who Thought Different",
+              "completed": true
+            },
+            {
+              "name": "Start With Why",
+              "completed": true
+            },
+            {
+              "name": "The 7 Habits of Highly Effective People",
+              "completed": false
+            },
+            {
+              "name": "Atomic Habits",
+              "completed": false
+            }
+          ]
+        }, 
+        {
+          "name": "Finance",
+          "sub_chapters": [
+            {
+              "name": "Rich Dad Poor Dad",
+              "completed": true
+            },
+            {
+              "name": "DO EPIC SHIT",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

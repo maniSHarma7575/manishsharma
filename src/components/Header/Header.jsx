@@ -30,9 +30,9 @@ const Header = ({title}) =>{
           Manish Sharma
         </a>
         <div className={`nav-links ${navLinkClass}`}>
-          <a href="/about" className="link">about</a>
           <a href="/projects" className="link">projects</a>
           <a href="/blogs" className="link">blogs</a>
+          <a href="/learn" className="link">Learning</a>
           <div className="social-media">
             <a href="https://www.github.com/maniSHarma7575" title="Github" target="_blank">
               <FontAwesomeIcon icon={['fab', 'github']}/>

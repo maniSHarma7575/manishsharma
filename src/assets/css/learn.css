@@ -1,0 +1,25 @@
+.main-heading {
+  text-transform: uppercase;
+  color: var(--shade-500);
+  font-size: 1.17em;
+}
+
+.divider {
+  color: var(--grey-color);
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.ul-topics{
+  list-style-type: none;
+}
+
+.topic-right {
+  margin-right: 0.7rem;
+}
+
+.ul-topics li {
+  color: var(--grey-text);
+  line-height: 140%;
+  font-size: 1rem;
+}
