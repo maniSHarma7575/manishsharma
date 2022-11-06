@@ -33,6 +33,7 @@ const Header = ({title}) =>{
           <a href="/projects" className="link">projects</a>
           <a href="/blogs" className="link">blogs</a>
           <a href="/learn" className="link">Learning</a>
+          <a href="/life-checklist" className="link">Life Checklist</a>
           <div className="social-media">
             <a href="https://www.github.com/maniSHarma7575" title="Github" target="_blank">
               <FontAwesomeIcon icon={['fab', 'github']}/>

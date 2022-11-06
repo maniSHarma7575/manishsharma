@@ -8,6 +8,7 @@
 @import './animation.css';
 @import './project.css';
 @import './learn.css';
+@import './checklist.css';
 
 header {
   text-align: center;
@@ -117,25 +118,6 @@ section .container {
 
 section:last-of-type .container {
   padding-bottom: 0;
-}
-
-.section-link {
-  text-align: center;
-  margin-top: 5rem;
-}
-
-.section-title {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  font-size: 2.5rem;
-  font-weight: 600;
-  color: var(--shade-500);
-}
-
-.section-subtitle {
-  font-size: 1.5rem;
-  color: var(--grey-text);
-  max-width: 60ch;
 }
 
 .title-icon {
